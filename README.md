@@ -1,2 +1,2 @@
-# Midi_AI_Music_Composer
-Analyzes a MIDI file and uses Markov Chains to compose a piece of music based on the input MIDI.
+# Compendium of Sorting Algorithms 
+Python implementation of most common sorting algorithms, including insertion sort, bubble sort, selection sort, mergesort, quicksort, heapsort, bucket sort, counting sort, radix sort, and bogosort (random sort).
